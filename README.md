@@ -1,2 +1,2 @@
 # Ej1
-Ej clae lab pedir cosa
+Ej clase lab pedir cosa
